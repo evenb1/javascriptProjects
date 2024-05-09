@@ -6,3 +6,7 @@
     --black-ball:black;
 
 }
+body{
+    background: var(--primary-color);
+    position: absolute;
+}

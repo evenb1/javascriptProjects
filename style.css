@@ -13,3 +13,8 @@ body{
     left:50%;
     transform: translate(-50%,-50%);
 }
+#switch{
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}

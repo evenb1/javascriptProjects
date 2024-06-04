@@ -1,8 +1,8 @@
-import Header from 'Header.jsx';
+import Header from './Header.jsx';
 
 function App() {
   return(
-    <header></header>
+    <Header></Header>
   );
 }
 
